@@ -24,7 +24,7 @@ Exemple de cas typique:
 
 Vous pouvez gagner, dépenser du kip en échangeant, en fournissant, en recevant, en troquant des produits ou services à votre communauté pour lesquels vous gagnerez du kip. kip sont dérivés de l'argent bitcoin. L'intégrité des données et la prévention des doubles dépenses sont assurées par Proof of Stake.  
 
-Avantages: décentralisation, immuabilité, sécurité, économie (coûts inférieurs moins déchets), transparence.  
+Avantages: décentralisation, immuabilité, sécurité, économie (coûts inférieurs moins de pertes), transparence.  
 
 Pour recevoir les KIP que vous avez gagnés.  
 Installez un portefeuille crypto compatible sur votre smartphone ou ordinateur tel que le portefeuille [Electron Cash SLP] (https://simpleledger.cash/project/electron-cash-slp-edition/)  
