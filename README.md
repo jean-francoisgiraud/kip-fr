@@ -43,6 +43,6 @@ J'accepte les termes de ce [document] (https://github.com/jean-francoisgiraud/Di
 
 ## Références
 [kip](https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935)  
-[La banque de temps Fureai Kippu au Japon dans les soins aux personnes âgées: origines, développement, défis et impact](https://ijccr.net/2012/08/16/japans-fureai-kippu-time-banking-in-%e2%80 % a8elderly-care-origins-development-% e2% 80% a8défis-et-impact)   
+[La banque de temps Fureai Kippu au Japon dans les soins aux personnes âgées: origines, développement, défis et impact](https://ijccr.net/2012/08/16/japans-fureai-kippu-time-banking-in-%e2%80%a8elderly-care-origins-development-%e2%80%a8challenges-and-impact/)   
 [simpleledger](https://simpleledger.cash)  
 [Electron-Cash](https://github.com/Electron-Cash/Electron-Cash)
