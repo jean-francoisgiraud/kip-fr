@@ -9,7 +9,7 @@ Pour Paypal et Interrac veuillez nous contacter.
 Services: Smart-contract, blockchain, crypto-monnaies.  
 
 [kip coin](#kip-coin)  
-[Legal](#Légal)  
+[Légal](#Légal)  
 [Références](#Références)  
 
 
