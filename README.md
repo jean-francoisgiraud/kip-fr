@@ -42,7 +42,7 @@ Il ne s'agit pas de conseils financiers et il n'y a aucune garantie d'aucune sor
 J'accepte les termes de ce [document] (https://github.com/jean-francoisgiraud/DigitalCertificationServices) avec SHA-1 checksum commit 20210114t0638 qui peut être vérifié sur le système de contrôle de révision et de gestion de documents github (le dernier commit à partir de cette écriture est fb2a969). Je déclare en outre que je suis autorisé et capable de conclure cet accord et de signer cette déclaration. Signé, [Jean-François Giraud] (https://github.com/jean-francoisgiraud).  
 
 ## Références
-[kip] (https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935)
-[La banque de temps Fureai Kippu au Japon dans les soins aux personnes âgées: origines, développement, défis et impact] (https://ijccr.net/2012/08/16/japans-fureai-kippu-time-banking-in-%e2%80 % a8elderly-care-origins-development-% e2% 80% a8défis-et-impact /)  
-[simpleledger] (https://simpleledger.cash)
-[Electron-Cash] (https://github.com/Electron-Cash/Electron-Cash)
+[kip] (https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935)  
+[La banque de temps Fureai Kippu au Japon dans les soins aux personnes âgées: origines, développement, défis et impact] (https://ijccr.net/2012/08/16/japans-fureai-kippu-time-banking-in-%e2%80 % a8elderly-care-origins-development-% e2% 80% a8défis-et-impact)   
+[simpleledger](https://simpleledger.cash)
+[Electron-Cash](https://github.com/Electron-Cash/Electron-Cash)
