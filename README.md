@@ -27,11 +27,11 @@ Vous pouvez gagner, dépenser du kip en échangeant, en fournissant, en recevant
 Avantages: décentralisation, immuabilité, sécurité, économie (coûts inférieurs moins de pertes), transparence.  
 
 Pour recevoir les KIP que vous avez gagnés.  
-Installez un portefeuille crypto compatible sur votre smartphone ou ordinateur tel que le portefeuille [Electron Cash SLP] (https://simpleledger.cash/project/electron-cash-slp-edition/)  
+Installez un portefeuille crypto compatible sur votre smartphone ou ordinateur tel que le portefeuille [Electron Cash SLP](https://simpleledger.cash/project/electron-cash-slp-edition/)  
 Aller à "Recevoir". Demandez à votre client de scanner le code QRL ou d'envoyer l '«adresse de réception» à votre client.  
-Votre client enverra votre kip, il le collera dans l'adresse SLP de son compte KIP (depuis un portefeuille bitcoin ou depuis son [portefeuille bitcoin cash in] (https://mint.bitcoin.com/) # / portfolio) pour payer votre produit, service en kip.  
+Votre client enverra votre kip, il le collera dans l'adresse SLP de son compte KIP (depuis un portefeuille bitcoin ou depuis son [portefeuille bitcoin cash in](https://mint.bitcoin.com) pour payer votre produit, service en kip.  
 
-kip utilise le [protocole SLP] (https://simpleledger.cash). Un système de jetons pour Bitcoin Cash. Il est similaire à la norme ERC-20. Les jetons SLP sont des représentations (jumeau numérique) d'actifs, de produits et de services du monde réel précieux représentés dans la blockchain SLP qui peuvent être envoyés et reçus. Les jetons SLP (comme notre propre kip) sont émis sur le réseau BCH (bitcoin cash) au lieu de fonctionner sur leur propre blockchain.  
+kip utilise le [protocole SLP](https://simpleledger.cash). Un système de jetons pour Bitcoin Cash. Il est similaire à la norme ERC-20. Les jetons SLP sont des représentations (jumeau numérique) d'actifs, de produits et de services du monde réel précieux représentés dans la blockchain SLP qui peuvent être envoyés et reçus. Les jetons SLP (comme notre propre kip) sont émis sur le réseau BCH (bitcoin cash) au lieu de fonctionner sur leur propre blockchain.  
 
 Pour ajouter des messages à une transaction/jeton (cela peut être utilisé pour expliquer ou justifier une transaction).
 Dans votre portefeuille (dans cet exemple, nous utiliserons le portefeuille "Mon portefeuille BCH") lors de l'envoi de pièces, il y aura une section nommée "Mémo personnel", c'est là que le message est entré.
@@ -39,7 +39,7 @@ Dans votre portefeuille (dans cet exemple, nous utiliserons le portefeuille "Mon
 Vérification des messages liés à une transaction/jeton.
 Dans votre portefeuille (dans cet exemple, nous utiliserons le portefeuille "Mon portefeuille BCH") utilisez la fonction "Afficher la transaction sur l'explorateur de blocs". Cela vous mènera à explorer.bitcoin.com et vous aurez 2 options "Résumé" ou "Afficher les détails" Sélectionnez "Résumé" pour voir les données de base de cette transaction, sélectionnez "Afficher les détails" pour toutes les données, y compris le message lié à cette transaction.
 
-Les [kippu] originaux (https://fr.wikipedia.org/wiki/Fureai_kippu) ont été développés au Japon en tant que devises de crédit mutuel civique sectorielles (pas en crypto).  
+Les [kippu originaux](https://fr.wikipedia.org/wiki/Fureai_kippu) ont été développés au Japon en tant que devises de crédit mutuel civique sectorielles (pas en crypto).  
 
 ## Légal
 
