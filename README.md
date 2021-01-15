@@ -1,3 +1,4 @@
+[English Version](https://github.com/jean-francoisgiraud/kip/)  
 # kip
 Une crypto-monnaie de crédit mutuel.
 ### Auteur: Jean-Francois Giraud eng. 8289468 Canada Inc.
